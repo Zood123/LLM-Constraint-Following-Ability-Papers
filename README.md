@@ -1,12 +1,10 @@
 # Instruction Following
 A paper list about Instruction Following
 
-**Note:** It only records papers for personal needs. It is welcome to open an issue if you think I missed some important or exciting work!
-
-## Table of Contents
+## Contents
 
 - [Survey](#survey)
-- [Foundation Medical VLM Model](#instruction-tuning-with-constraints)
+- [Instruction Tuning with constraints](#instruction-tuning-with-constraints)
 
 ## Survey
 
