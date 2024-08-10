@@ -3,10 +3,10 @@ A paper list about Contraint Following ability of LLM
 
 ## Contents
 
-- [Survey](#survey)
+- [Benchmark](#benchmark)
 - [Instruction Tuning with constraints](#instruction-tuning-with-constraints)
 
-## Survey
+## Benchmark
 
 ---
 
