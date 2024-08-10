@@ -1,5 +1,5 @@
-# Instruction Following
-A paper list about Instruction Following
+# LLM Contraint Following Ability
+A paper list about Contraint Following ability of LLM
 
 ## Contents
 
