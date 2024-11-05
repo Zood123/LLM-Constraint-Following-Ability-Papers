@@ -13,7 +13,7 @@ A paper list about Contraint Following ability of LLM
 - **CFBench: A Comprehensive Constraints-Following Benchmark for LLMs**. arXiv 2024. [[paper]](https://arxiv.org/abs/2408.01122) [[code]](https://github.com/PKU-Baichuan-MLSystemLab/CFBench)
 
 
-- **TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation**. arXiv 2024. [[paper]](https://arxiv.org/abs/2408.01122) #[[code]]()
+- **TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation**. arXiv 2024. [[paper]](https://arxiv.org/abs/2410.03608) 
 
 
 
