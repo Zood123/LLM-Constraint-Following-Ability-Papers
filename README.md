@@ -10,6 +10,13 @@ A paper list about Contraint Following ability of LLM
 - **Instruction-following evaluation for large language models**. arXiv 2023. [[paper]](https://arxiv.org/abs/2311.07911) [[code]](https://github.com/google-research/google-research/tree/master/instruction_following_eval)
 - **Benchmarking Complex Instruction-Following with Multiple Constraints Composition**. arXiv 2024. [[paper]](https://arxiv.org/abs/2407.03978) [[code]](https://github.com/thu-coai/ComplexBench)
 
+- **CFBench: A Comprehensive Constraints-Following Benchmark for LLMs**. arXiv 2024. [[paper]](https://arxiv.org/abs/2408.01122) [[code]](https://github.com/PKU-Baichuan-MLSystemLab/CFBench)
+
+
+- **TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation**. arXiv 2024. [[paper]](https://arxiv.org/abs/2408.01122) #[[code]]()
+
+
+
 ---
 
 ## Instruction Tuning with constraints
