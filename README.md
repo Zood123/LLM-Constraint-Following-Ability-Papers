@@ -24,3 +24,5 @@ A paper list about Contraint Following ability of LLM
 - **RuleR: Improving LLM Controllability by Rule-based Data Recycling** arXiv 2024. [[paper]](https://arxiv.org/abs/2406.15938) [[code]](https://github.com/MingLiiii/RuleR/tree/main)
 - **From Instructions to Constraints: Language Model Alignment with Automatic Constraint Verification**. arXiv 2024. [[paper]](https://arxiv.org/abs/2403.06326) [[code]](https://arxiv.org/abs/2403.06326)
 - **From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models** arXiv 2024. [[paper]](https://arxiv.org/abs/2404.15846) [[code]](https://github.com/meowpass/FollowComplexInstruction)
+- **LLM Self-Correction with DECRIM: DECOMPOSE, CRITIQUE, AND REFINE for Enhanced Following of Instructions with Multiple Constraints** arXiv 2024. [[paper]](https://arxiv.org/abs/2410.06458)
+- **Divide-Verify-Refine: Aligning LLM Responses with Complex Instructions** arXiv 2024. [[paper]](https://arxiv.org/abs/2404.15846) [[code]](https://anonymous.4open.science/r/CODE_ICLR2025-52CE/README.md)
