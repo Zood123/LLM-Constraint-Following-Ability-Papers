@@ -26,3 +26,4 @@ A paper list about Contraint Following ability of LLM
 - **From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models** arXiv 2024. [[paper]](https://arxiv.org/abs/2404.15846) [[code]](https://github.com/meowpass/FollowComplexInstruction)
 - **LLM Self-Correction with DECRIM: DECOMPOSE, CRITIQUE, AND REFINE for Enhanced Following of Instructions with Multiple Constraints** arXiv 2024. [[paper]](https://arxiv.org/abs/2410.06458)
 - **Divide-Verify-Refine: Aligning LLM Responses with Complex Instructions** arXiv 2024. [[paper]](https://arxiv.org/abs/2410.12207) [[code]](https://anonymous.4open.science/r/CODE_ICLR2025-52CE/README.md)
+- **Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models** [[paper]](https://arxiv.org/abs/2406.13542)
