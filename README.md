@@ -15,7 +15,9 @@ A paper list about Contraint Following ability of LLM
 
 - **TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation**. arXiv 2024. [[paper]](https://arxiv.org/abs/2410.03608) 
 
+- **SysBench: Can Large Language Models Follow System Messages?**. arXiv 2024. [[paper]](https://arxiv.org/abs/2408.10943) 
 
+- **Evaluating the Instruction-following Abilities of Language Models using Knowledge Tasks** . arXiv 2024. [[paper]](https://arxiv.org/abs/2410.12972) 
 
 ---
 
